@@ -43,14 +43,3 @@ database.default.DBDriver = MySQLi
 
 > Para mais detalhes, confira a documentação no projeto.
 
-
-
-📄 Licença
-
-Este projeto está sob a licença MIT.
-
-
----
-
-Ficou simples, direto ao ponto e bonito. Quer adicionar mais alguma coisa?
-
